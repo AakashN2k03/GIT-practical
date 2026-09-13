@@ -1,2 +1,0 @@
-test2 from main
-hellor from text2 from test
